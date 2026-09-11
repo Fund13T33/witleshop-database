@@ -1,3 +1,4 @@
+![ERD](witle_fundiswa2.drawio.png)
 # WitleShop Database Design
 
 Database design for WitleShop online store.
