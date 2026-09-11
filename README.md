@@ -49,14 +49,7 @@ Database design for WitleShop online store.
 - Category to Product = 1:M (one category, many products)
 - Supplier to Product = 1:M (one supplier, many products)
 
-## ERD
 
-Customer ---< DeliveryAddress
-Customer ---< Order
-Order ---- Payment
-Order ---- Delivery
-Order ---< OrderItem >--- Product
-Product ---< Category
 Product ---< Supplier
 
 Key:
